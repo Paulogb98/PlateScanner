@@ -1,0 +1,14 @@
+# ================================
+# Arquivos de configuração/variáveis
+# ================================
+.env
+
+# ================================
+# Arquivos temporários e de cache
+# ================================
+*.log
+*.tmp
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
